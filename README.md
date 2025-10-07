@@ -1,17 +1,14 @@
 # 🎮 JavaScript Stuck Cat Game
 
-A fun and interactive browser-based game built using HTML, CSS, and JavaScript.
-
----
+A fun and interactive browser-based game built using HTML, CSS, and JavaScript. It is about to make 
+the character run on the canvas using the D key. It will face a coming cat stuck under a crate 
+at a remarkable speed and the character must jump to pass it using the Space key.
 
 ## 🚀 Features
 
 - Responsive design
-- Keyboard/mouse controls
-- Scoring system
-- Game restart functionality
+- Keyboard controls
 
----
 
 ## 🕹 How to Play
 
