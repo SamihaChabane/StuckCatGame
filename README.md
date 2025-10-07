@@ -19,7 +19,6 @@ Stay focused, react quickly, and avoid collision to keep running!
 2. Open `index.html` in your browser
 3. Follow the on-screen instructions
 
-## 🕹️ How to Play
 
 | Key | Action |
 |-----|---------|
