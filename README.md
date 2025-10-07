@@ -46,4 +46,8 @@ Miss the timing, and the game’s over!
 - Introduce speed variations.
 - Add sound effects for jumping, and collisions.
 - Include a menu screen.
+---
+## 🧑‍💻 Author
+**Samiha Chabane**
+A simple and fun project built to experiment with canvas animations and game loops.
 
