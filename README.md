@@ -35,7 +35,7 @@ Stay focused, react quickly, and avoid collision to keep running!
 As your character runs across the screen, a cat trapped under a crate speeds toward you.
 The only way to survive is to time your jump perfectly.
 Miss the timing, and the game’s over!
----
+
 ## 🧩 Technologies Used
 - **HTML5 Canvas**
 - **JavaScript**
