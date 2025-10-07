@@ -49,5 +49,5 @@ Miss the timing, and the game’s over!
 ---
 ## 🧑‍💻 Author
 **Samiha Chabane**
-A simple and fun project built to experiment with canvas animations and game loops.
+- A simple and fun project built to experiment with canvas animations and game loops.
 
