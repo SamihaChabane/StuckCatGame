@@ -7,7 +7,8 @@ Stay focused, react quickly, and avoid collision to keep running!
 ## 🚀 Features
 
 - Responsive design
-- Smooth **character movement** and **jump physics**.  
+- Smooth **character movement** and **jump physics**.
+- Includes background music.
 - Dynamic **obstacle animation** (cat and crate).  
 - **Canvas-based rendering** for browser play.  
 - Simple and intuitive **keyboard controls**.  
@@ -29,12 +30,20 @@ Stay focused, react quickly, and avoid collision to keep running!
 - Keep running as long as possible.  
 - Jump over obstacles to survive.  
 - Colliding with the crate ends the game!
-
-
 ---
+## 🐱 Game Concept
+As your character runs across the screen, a cat trapped under a crate speeds toward you.
+The only way to survive is to time your jump perfectly.
+Miss the timing, and the game’s over!
 
 ## 🧩 Technologies Used
 - **HTML5 Canvas**
 - **JavaScript**
 - **CSS (for styling the game area)**
+
+## 💡 Future Improvements
+- Add score tracking and high score system.
+- Introduce speed variations.
+- Add sound effects for jumping, and collisions.
+- Include a menu screen.
 
