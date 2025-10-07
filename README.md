@@ -18,7 +18,7 @@ Stay focused, react quickly, and avoid collision to keep running!
 1. Download or clone the repository of this project
 2. Open `index.html` in your browser
 3. Follow the on-screen instructions
-4. | Key | Action |
+| Key | Action |
 |-----|---------|
 | **D** | Move the character forward |
 | **Space** | Jump to avoid the crate and cat |
